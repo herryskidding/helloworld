@@ -22,27 +22,32 @@ DOMAIN-KEYWORD,9game, direct
 DOMAIN-KEYWORD,ucweb, direct
 
 # P2P
-PROCESS-NAME,aria2c, direct
-PROCESS-NAME,fdm, direct
-PROCESS-NAME,Folx, direct
-PROCESS-NAME,NetTransport, direct
-PROCESS-NAME,Transmission, direct
-PROCESS-NAME,uTorrent, direct
-PROCESS-NAME,WebTorrent, direct
-PROCESS-NAME,WebTorrent Helper, direct
-DOMAIN-KEYWORD,tracker, direct
+# PROCESS-NAME,*Folx*, direct
+# PROCESS-NAME,*Thunder*, direct
+# PROCESS-NAME,*DownloadService*, direct
+# PROCESS-NAME,*Soda*, direct
+# PROCESS-NAME,*p4pclient*, direct
+# PROCESS-NAME,aria2c, direct
+# PROCESS-NAME,fdm, direct
+# PROCESS-NAME,Folx, direct
+# PROCESS-NAME,NetTransport, direct
+# PROCESS-NAME,Transmission, direct
+# PROCESS-NAME,uTorrent, direct
+# PROCESS-NAME,WebTorrent, direct
+# PROCESS-NAME,WebTorrent Helper, direct
+# DOMAIN-KEYWORD,tracker, direct
 
 # Booking
 DOMAIN-SUFFIX,booking.com, direct
 DOMAIN-SUFFIX,booking.cn, direct
 
 # Misc
-PROCESS-NAME,百度网盘, direct
-PROCESS-NAME,*Clash*, direct
-PROCESS-NAME,*clash*, direct
-PROCESS-NAME,v2ray, direct
-PROCESS-NAME,ss-local, direct
-PROCESS-NAME,ssr-local, direct
+# PROCESS-NAME,百度网盘, direct
+# PROCESS-NAME,*Clash*, direct
+# PROCESS-NAME,*clash*, direct
+# PROCESS-NAME,v2ray, direct
+# PROCESS-NAME,ss-local, direct
+# PROCESS-NAME,ssr-local, direct
 # iStat Menu IP Test
 DOMAIN,ip.bjango.com, direct
 DOMAIN-SUFFIX,biquge.com.tw, direct
