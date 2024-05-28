@@ -1,3 +1,3 @@
 # Channel 4
-DOMAIN-KEYWORD,c4assets.com
-DOMAIN-KEYWORD,channel4.com
+DOMAIN-KEYWORD,c4assets.com, Channel4
+DOMAIN-KEYWORD,channel4.com, Channel4

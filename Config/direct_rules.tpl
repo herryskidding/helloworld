@@ -1,187 +1,183 @@
 # Additional
-DOMAIN-SUFFIX,.cn
-DOMAIN-KEYWORD,weixin
-DOMAIN-KEYWORD,douban
-DOMAIN-KEYWORD,zhihu
-DOMAIN-KEYWORD,xhs
-DOMAIN-SUFFIX,qq.com
-DOMAIN-KEYWORD,feishu
-DOMAIN-KEYWORD,csjplatform
-DOMAIN-SUFFIX,hangchow.org
+DOMAIN-SUFFIX,.cn, direct
+DOMAIN-KEYWORD,weixin, direct
+DOMAIN-KEYWORD,douban, direct
+DOMAIN-KEYWORD,zhihu, direct
+DOMAIN-KEYWORD,xhs, direct
+DOMAIN-SUFFIX,qq.com, direct
+DOMAIN-KEYWORD,feishu, direct
+DOMAIN-KEYWORD,csjplatform, direct
+DOMAIN-SUFFIX,hangchow.org, direct
 
 # Alibaba
-DOMAIN-KEYWORD,alibaba-inc
-DOMAIN-KEYWORD,alibaba
-DOMAIN-KEYWORD,alipay-inc
-DOMAIN-KEYWORD,aliyuncs
-DOMAIN-KEYWORD,alipay
-DOMAIN-KEYWORD,taobao
-DOMAIN-KEYWORD,alicdn
-DOMAIN-KEYWORD,aliyun
-DOMAIN-KEYWORD,9game
-DOMAIN-KEYWORD,ucweb
-
-# Battle.net
-DOMAIN-SUFFIX,blizzard.com
-DOMAIN-SUFFIX,battle.net
+DOMAIN-KEYWORD,alibaba-inc, direct
+DOMAIN-KEYWORD,alibaba, direct
+DOMAIN-KEYWORD,alipay-inc, direct
+DOMAIN-KEYWORD,aliyuncs, direct
+DOMAIN-KEYWORD,alipay, direct
+DOMAIN-KEYWORD,taobao, direct
+DOMAIN-KEYWORD,alicdn, direct
+DOMAIN-KEYWORD,aliyun, direct
+DOMAIN-KEYWORD,9game, direct
+DOMAIN-KEYWORD,ucweb, direct
 
 # P2P
-PROCESS-NAME,*Folx*
-PROCESS-NAME,*Thunder*
-PROCESS-NAME,*DownloadService*
-PROCESS-NAME,*Soda*
-PROCESS-NAME,*p4pclient*
-PROCESS-NAME,aria2c
-PROCESS-NAME,fdm
-PROCESS-NAME,Folx
-PROCESS-NAME,NetTransport
-PROCESS-NAME,Transmission
-PROCESS-NAME,uTorrent
-PROCESS-NAME,WebTorrent
-PROCESS-NAME,WebTorrent Helper
-DOMAIN-KEYWORD,tracker
+PROCESS-NAME,*Folx*, direct
+PROCESS-NAME,*Thunder*, direct
+PROCESS-NAME,*DownloadService*, direct
+PROCESS-NAME,*Soda*, direct
+PROCESS-NAME,*p4pclient*, direct
+PROCESS-NAME,aria2c, direct
+PROCESS-NAME,fdm, direct
+PROCESS-NAME,Folx, direct
+PROCESS-NAME,NetTransport, direct
+PROCESS-NAME,Transmission, direct
+PROCESS-NAME,uTorrent, direct
+PROCESS-NAME,WebTorrent, direct
+PROCESS-NAME,WebTorrent Helper, direct
+DOMAIN-KEYWORD,tracker, direct
 
 # Booking
-DOMAIN-SUFFIX,booking.com
-DOMAIN-SUFFIX,booking.cn
+DOMAIN-SUFFIX,booking.com, direct
+DOMAIN-SUFFIX,booking.cn, direct
 
 # Misc
-PROCESS-NAME,百度网盘
-PROCESS-NAME,*Clash*
-PROCESS-NAME,*clash*
-PROCESS-NAME,v2ray
-PROCESS-NAME,ss-local
-PROCESS-NAME,ssr-local
+PROCESS-NAME,百度网盘, direct
+PROCESS-NAME,*Clash*, direct
+PROCESS-NAME,*clash*, direct
+PROCESS-NAME,v2ray, direct
+PROCESS-NAME,ss-local, direct
+PROCESS-NAME,ssr-local, direct
 # iStat Menu IP Test
-DOMAIN,ip.bjango.com
-DOMAIN-SUFFIX,biquge.com.tw
-DOMAIN-SUFFIX,maoyun.tv
-DOMAIN-SUFFIX,moke.com
-DOMAIN-SUFFIX,test-ipv6.com
-DOMAIN-SUFFIX,zimuzu.tv
-DOMAIN-SUFFIX,zmzapi.com
-DOMAIN-SUFFIX,zmzapi.net
-DOMAIN-SUFFIX,zmzfile.com
+DOMAIN,ip.bjango.com, direct
+DOMAIN-SUFFIX,biquge.com.tw, direct
+DOMAIN-SUFFIX,maoyun.tv, direct
+DOMAIN-SUFFIX,moke.com, direct
+DOMAIN-SUFFIX,test-ipv6.com, direct
+DOMAIN-SUFFIX,zimuzu.tv, direct
+DOMAIN-SUFFIX,zmzapi.com, direct
+DOMAIN-SUFFIX,zmzapi.net, direct
+DOMAIN-SUFFIX,zmzfile.com, direct
 
 # China Apps
-USER-AGENT,MApi*
-USER-AGENT,MicroMessenger*
-USER-AGENT,WeChat*
-DOMAIN-SUFFIX,cn
-DOMAIN-KEYWORD,-cn
-DOMAIN-KEYWORD,alicdn
-DOMAIN-SUFFIX,126.com
-DOMAIN-SUFFIX,126.net
-DOMAIN-SUFFIX,127.net
-DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,360buyimg.com
-DOMAIN-SUFFIX,36kr.com
-DOMAIN-SUFFIX,acfun.tv
-DOMAIN-SUFFIX,air-matters.com
-DOMAIN-SUFFIX,aixifan.com
-DOMAIN-SUFFIX,weibo.com
-DOMAIN-SUFFIX,alipayobjects.com
-DOMAIN-SUFFIX,amap.com
-DOMAIN-SUFFIX,autonavi.com
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,baidupcs.com
-DOMAIN-SUFFIX,bdimg.com
-DOMAIN-SUFFIX,bdstatic.com
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,caiyunapp.com
-DOMAIN-SUFFIX,clouddn.com
-DOMAIN-SUFFIX,cnbeta.com
-DOMAIN-SUFFIX,cnbetacdn.com
-DOMAIN-SUFFIX,cootekservice.com
-DOMAIN-SUFFIX,csdn.net
-DOMAIN-SUFFIX,ctrip.com
-DOMAIN-SUFFIX,dgtle.com
-DOMAIN-SUFFIX,dianping.com
-DOMAIN-SUFFIX,douban.com
-DOMAIN-SUFFIX,doubanio.com
-DOMAIN-SUFFIX,duokan.com
-DOMAIN-SUFFIX,easou.com
-DOMAIN-SUFFIX,ele.me
-DOMAIN-SUFFIX,fast.com
-DOMAIN-SUFFIX,feng.com
-DOMAIN-SUFFIX,fir.im
-DOMAIN-SUFFIX,frdic.com
-DOMAIN-SUFFIX,g-cores.com
-DOMAIN-SUFFIX,godic.net
-DOMAIN-SUFFIX,gtimg.com
-DOMAIN-SUFFIX,hongxiu.com
-DOMAIN-SUFFIX,hxcdn.net
-DOMAIN-SUFFIX,iciba.com
-DOMAIN-SUFFIX,ifeng.com
-DOMAIN-SUFFIX,ifengimg.com
-DOMAIN-SUFFIX,images-amazon.com
-DOMAIN-SUFFIX,ipip.net
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,jd.com
-DOMAIN-SUFFIX,jianshu.com
-DOMAIN-SUFFIX,knewone.com
-DOMAIN-SUFFIX,le.com
-DOMAIN-SUFFIX,lecloud.com
-DOMAIN-SUFFIX,lemicp.com
-DOMAIN-SUFFIX,luoo.net
-DOMAIN-SUFFIX,meituan.com
-DOMAIN-SUFFIX,meituan.net
-DOMAIN-SUFFIX,mi.com
-DOMAIN-SUFFIX,miaopai.com
-DOMAIN-SUFFIX,miui.com
-DOMAIN-SUFFIX,miwifi.com
-DOMAIN-SUFFIX,mob.com
-DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,oschina.net
-DOMAIN-SUFFIX,ppsimg.com
-DOMAIN-SUFFIX,pstatp.com
-DOMAIN-SUFFIX,qcloud.com
-DOMAIN-SUFFIX,qdaily.com
-DOMAIN-SUFFIX,qdmm.com
-DOMAIN-SUFFIX,qhimg.com
-DOMAIN-SUFFIX,qidian.com
-DOMAIN-SUFFIX,qihucdn.com
-DOMAIN-SUFFIX,qiniu.com
-DOMAIN-SUFFIX,qiniucdn.com
-DOMAIN-SUFFIX,qiyipic.com
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,qqurl.com
-DOMAIN-SUFFIX,rarbg.is
-DOMAIN-SUFFIX,rr.tv
-DOMAIN-SUFFIX,ruguoapp.com
-DOMAIN-SUFFIX,segmentfault.com
-DOMAIN-SUFFIX,sinaapp.com
-DOMAIN-SUFFIX,sogou.com
-DOMAIN-SUFFIX,sogoucdn.com
-DOMAIN-SUFFIX,sohu.com
-DOMAIN-SUFFIX,soku.com
-DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,sspai.com
-DOMAIN-SUFFIX,suning.com
-DOMAIN-SUFFIX,tenpay.com
-DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,tudou.com
-DOMAIN-SUFFIX,umetrip.com
-DOMAIN-SUFFIX,upaiyun.com
-DOMAIN,update.microsoft.com
-DOMAIN-SUFFIX,upyun.com
-DOMAIN-SUFFIX,veryzhun.com
-DOMAIN-SUFFIX,weibo.com
-DOMAIN-SUFFIX,xiami.com
-DOMAIN-SUFFIX,xiami.net
-DOMAIN-SUFFIX,xiaomicp.com
-DOMAIN-SUFFIX,ximalaya.com
-DOMAIN-SUFFIX,xmcdn.com
-DOMAIN-SUFFIX,xunlei.com
-DOMAIN-SUFFIX,yhd.com
-DOMAIN-SUFFIX,yihaodianimg.com
-DOMAIN-SUFFIX,yinxiang.com
-DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,youdao.com
-DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,zealer.com
-DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,zhimg.com
-DOMAIN-SUFFIX,chinacloudapi.cn
-DOMAIN-SUFFIX,mymm.com
-DOMAIN-SUFFIX,akadns.net
+USER-AGENT,MApi*, direct
+USER-AGENT,MicroMessenger*, direct
+USER-AGENT,WeChat*, direct
+DOMAIN-SUFFIX,cn, direct
+DOMAIN-KEYWORD,-cn, direct
+DOMAIN-KEYWORD,alicdn, direct
+DOMAIN-SUFFIX,126.com, direct
+DOMAIN-SUFFIX,126.net, direct
+DOMAIN-SUFFIX,127.net, direct
+DOMAIN-SUFFIX,163.com, direct
+DOMAIN-SUFFIX,360buyimg.com, direct
+DOMAIN-SUFFIX,36kr.com, direct
+DOMAIN-SUFFIX,acfun.tv, direct
+DOMAIN-SUFFIX,air-matters.com, direct
+DOMAIN-SUFFIX,aixifan.com, direct
+DOMAIN-SUFFIX,weibo.com, direct
+DOMAIN-SUFFIX,alipayobjects.com, direct
+DOMAIN-SUFFIX,amap.com, direct
+DOMAIN-SUFFIX,autonavi.com, direct
+DOMAIN-SUFFIX,baidu.com, direct
+DOMAIN-SUFFIX,baidupcs.com, direct
+DOMAIN-SUFFIX,bdimg.com, direct
+DOMAIN-SUFFIX,bdstatic.com, direct
+DOMAIN-SUFFIX,bilibili.com, direct
+DOMAIN-SUFFIX,caiyunapp.com, direct
+DOMAIN-SUFFIX,clouddn.com, direct
+DOMAIN-SUFFIX,cnbeta.com, direct
+DOMAIN-SUFFIX,cnbetacdn.com, direct
+DOMAIN-SUFFIX,cootekservice.com, direct
+DOMAIN-SUFFIX,csdn.net, direct
+DOMAIN-SUFFIX,ctrip.com, direct
+DOMAIN-SUFFIX,dgtle.com, direct
+DOMAIN-SUFFIX,dianping.com, direct
+DOMAIN-SUFFIX,douban.com, direct
+DOMAIN-SUFFIX,doubanio.com, direct
+DOMAIN-SUFFIX,duokan.com, direct
+DOMAIN-SUFFIX,easou.com, direct
+DOMAIN-SUFFIX,ele.me, direct
+DOMAIN-SUFFIX,fast.com, direct
+DOMAIN-SUFFIX,feng.com, direct
+DOMAIN-SUFFIX,fir.im, direct
+DOMAIN-SUFFIX,frdic.com, direct
+DOMAIN-SUFFIX,g-cores.com, direct
+DOMAIN-SUFFIX,godic.net, direct
+DOMAIN-SUFFIX,gtimg.com, direct
+DOMAIN-SUFFIX,hongxiu.com, direct
+DOMAIN-SUFFIX,hxcdn.net, direct
+DOMAIN-SUFFIX,iciba.com, direct
+DOMAIN-SUFFIX,ifeng.com, direct
+DOMAIN-SUFFIX,ifengimg.com, direct
+DOMAIN-SUFFIX,images-amazon.com, direct
+DOMAIN-SUFFIX,ipip.net, direct
+DOMAIN-SUFFIX,iqiyi.com, direct
+DOMAIN-SUFFIX,jd.com, direct
+DOMAIN-SUFFIX,jianshu.com, direct
+DOMAIN-SUFFIX,knewone.com, direct
+DOMAIN-SUFFIX,le.com, direct
+DOMAIN-SUFFIX,lecloud.com, direct
+DOMAIN-SUFFIX,lemicp.com, direct
+DOMAIN-SUFFIX,luoo.net, direct
+DOMAIN-SUFFIX,meituan.com, direct
+DOMAIN-SUFFIX,meituan.net, direct
+DOMAIN-SUFFIX,mi.com, direct
+DOMAIN-SUFFIX,miaopai.com, direct
+DOMAIN-SUFFIX,miui.com, direct
+DOMAIN-SUFFIX,miwifi.com, direct
+DOMAIN-SUFFIX,mob.com, direct
+DOMAIN-SUFFIX,netease.com, direct
+DOMAIN-SUFFIX,oschina.net, direct
+DOMAIN-SUFFIX,ppsimg.com, direct
+DOMAIN-SUFFIX,pstatp.com, direct
+DOMAIN-SUFFIX,qcloud.com, direct
+DOMAIN-SUFFIX,qdaily.com, direct
+DOMAIN-SUFFIX,qdmm.com, direct
+DOMAIN-SUFFIX,qhimg.com, direct
+DOMAIN-SUFFIX,qidian.com, direct
+DOMAIN-SUFFIX,qihucdn.com, direct
+DOMAIN-SUFFIX,qiniu.com, direct
+DOMAIN-SUFFIX,qiniucdn.com, direct
+DOMAIN-SUFFIX,qiyipic.com, direct
+DOMAIN-SUFFIX,qq.com, direct
+DOMAIN-SUFFIX,qqurl.com, direct
+DOMAIN-SUFFIX,rarbg.is, direct
+DOMAIN-SUFFIX,rr.tv, direct
+DOMAIN-SUFFIX,ruguoapp.com, direct
+DOMAIN-SUFFIX,segmentfault.com, direct
+DOMAIN-SUFFIX,sinaapp.com, direct
+DOMAIN-SUFFIX,sogou.com, direct
+DOMAIN-SUFFIX,sogoucdn.com, direct
+DOMAIN-SUFFIX,sohu.com, direct
+DOMAIN-SUFFIX,soku.com, direct
+DOMAIN-SUFFIX,speedtest.net, direct
+DOMAIN-SUFFIX,sspai.com, direct
+DOMAIN-SUFFIX,suning.com, direct
+DOMAIN-SUFFIX,tenpay.com, direct
+DOMAIN-SUFFIX,tmall.com, direct
+DOMAIN-SUFFIX,tudou.com, direct
+DOMAIN-SUFFIX,umetrip.com, direct
+DOMAIN-SUFFIX,upaiyun.com, direct
+DOMAIN,update.microsoft.com, direct
+DOMAIN-SUFFIX,upyun.com, direct
+DOMAIN-SUFFIX,veryzhun.com, direct
+DOMAIN-SUFFIX,weibo.com, direct
+DOMAIN-SUFFIX,xiami.com, direct
+DOMAIN-SUFFIX,xiami.net, direct
+DOMAIN-SUFFIX,xiaomicp.com, direct
+DOMAIN-SUFFIX,ximalaya.com, direct
+DOMAIN-SUFFIX,xmcdn.com, direct
+DOMAIN-SUFFIX,xunlei.com, direct
+DOMAIN-SUFFIX,yhd.com, direct
+DOMAIN-SUFFIX,yihaodianimg.com, direct
+DOMAIN-SUFFIX,yinxiang.com, direct
+DOMAIN-SUFFIX,ykimg.com, direct
+DOMAIN-SUFFIX,youdao.com, direct
+DOMAIN-SUFFIX,youku.com, direct
+DOMAIN-SUFFIX,zealer.com, direct
+DOMAIN-SUFFIX,zhihu.com, direct
+DOMAIN-SUFFIX,zhimg.com, direct
+DOMAIN-SUFFIX,chinacloudapi.cn, direct
+DOMAIN-SUFFIX,mymm.com, direct
+DOMAIN-SUFFIX,akadns.net, direct
