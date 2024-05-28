@@ -1,5 +1,5 @@
 # 办公室网络
-HOST,firezone.nocode-tech.com
+DOMAIN,firezone.nocode-tech.com
 HOST-SUFFIX,nocode-tech.com
 HOST-SUFFIX,nocode.mobi
 HOST-SUFFIX,nocodetech.cn
