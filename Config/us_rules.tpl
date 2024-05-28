@@ -1,6 +1,6 @@
 # > HBO NOW & Max
 # USER-AGENT,HBO%20NOW*
-HOST-SUFFIX,hbo.com
+HOST-SUFFIX,hbo.com, HBO&TikTok
 HOST-SUFFIX,hbogo.com
 HOST-SUFFIX,hbonow.com
 USER-AGENT,HBOMAX*
