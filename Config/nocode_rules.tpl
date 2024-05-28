@@ -3,8 +3,8 @@ HOST,firezone.nocode-tech.com
 HOST-SUFFIX,nocode-tech.com
 HOST-SUFFIX,nocode.mobi
 HOST-SUFFIX,nocodetech.cn
-HOST,pgm-bp102bs17ul8kx5auo.pg.rds.aliyuncs.com
-HOST,pgm-bp1yip0491bx6c12zo.pg.rds.aliyuncs.com
+DOMAIN,pgm-bp102bs17ul8kx5auo.pg.rds.aliyuncs.com
+DOMAIN,pgm-bp1yip0491bx6c12zo.pg.rds.aliyuncs.com
 HOST-SUFFIX,dev.nocode.com
 HOST-SUFFIX,redis.rds.aliyuncs.com
 HOST-KEYWORD,nocode
