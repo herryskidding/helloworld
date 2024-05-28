@@ -22,11 +22,6 @@ DOMAIN-KEYWORD,9game, direct
 DOMAIN-KEYWORD,ucweb, direct
 
 # P2P
-PROCESS-NAME,*Folx*, direct
-PROCESS-NAME,*Thunder*, direct
-PROCESS-NAME,*DownloadService*, direct
-PROCESS-NAME,*Soda*, direct
-PROCESS-NAME,*p4pclient*, direct
 PROCESS-NAME,aria2c, direct
 PROCESS-NAME,fdm, direct
 PROCESS-NAME,Folx, direct
