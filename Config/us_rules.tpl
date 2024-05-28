@@ -1,11 +1,11 @@
 # > HBO NOW & Max
 # USER-AGENT,HBO%20NOW*
-DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,hbogo.com
-DOMAIN-SUFFIX,hbonow.com
+HOST-SUFFIX,hbo.com
+HOST-SUFFIX,hbogo.com
+HOST-SUFFIX,hbonow.com
 USER-AGENT,HBOMAX*
-DOMAIN-SUFFIX,hbomax.com
-DOMAIN-SUFFIX,hbomaxcdn.com
+HOST-SUFFIX,hbomax.com
+HOST-SUFFIX,hbomaxcdn.com
 
 # NAME: TikTok
 # AUTHOR: blackmatrix7
