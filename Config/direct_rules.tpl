@@ -1,5 +1,5 @@
 # Additional
-DOMAIN-SUFFIX,.cn, direct
+DOMAIN-KEYWORD,.cn, direct
 DOMAIN-KEYWORD,weixin, direct
 DOMAIN-KEYWORD,douban, direct
 DOMAIN-KEYWORD,zhihu, direct
