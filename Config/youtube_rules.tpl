@@ -1,3 +1,7 @@
+# Other
+DOMAIN-SUFFIX,typeset.io
+DOMAIN-SUFFIX,bing.com
+
 # YouTube
 DOMAIN,youtubei.googleapis.com
 DOMAIN-SUFFIX,youtube.com

@@ -1,3 +1,6 @@
+# duolingo
+DOMAIN-SUFFIX,duolingo.com,🤖 AI Platforms
+
 # https://openai.com/
 # created by blackmatrix7 
 # repo:https://github.com/blackmatrix7/ios_rule_script
@@ -8,11 +11,17 @@ DOMAIN-SUFFIX,challenges.cloudflare.com,🤖 AI Platforms
 DOMAIN-SUFFIX,identrust.com,🤖 AI Platforms
 DOMAIN-SUFFIX,stripe.com,🤖 AI Platforms
 DOMAIN-KEYWORD,openai,🤖 AI Platforms
+DOMAIN-KEYWORD,chatgpt,🤖 AI Platforms
+PROCESS-NAME,ChatGPT,🤖 AI Platforms
+
 
 # https://claude.ai/
 # created by limbopro
 # repo:https://github.com/limbopro/Profiles4limbo/
 DOMAIN-KEYWORD,claude,🤖 AI Platforms
+
+# https://poe.com/
+DOMAIN,poe.com,🤖 AI Platforms
 
 # https://bard.google.com/
 # created by limbopro
