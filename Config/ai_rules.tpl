@@ -1,34 +1,37 @@
 # duolingo
-DOMAIN-SUFFIX,duolingo.com,🤖 AI Platforms
+# Policy: configure via RULE-SET in main config, e.g. RULE-SET,<url-or-name>,<Policy>
+DOMAIN-SUFFIX,duolingo.com
 
 # https://openai.com/
 # created by blackmatrix7 
 # repo:https://github.com/blackmatrix7/ios_rule_script
-DOMAIN,cdn.auth0.com,🤖 AI Platforms
-DOMAIN,o33249.ingest.sentry.io,🤖 AI Platforms
-DOMAIN-SUFFIX,ai.com,🤖 AI Platforms
-DOMAIN-SUFFIX,challenges.cloudflare.com,🤖 AI Platforms
-DOMAIN-SUFFIX,identrust.com,🤖 AI Platforms
-DOMAIN-SUFFIX,stripe.com,🤖 AI Platforms
-DOMAIN-KEYWORD,openai,🤖 AI Platforms
-DOMAIN-KEYWORD,chatgpt,🤖 AI Platforms
-PROCESS-NAME,ChatGPT,🤖 AI Platforms
+DOMAIN,cdn.auth0.com
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,chatgpt
+PROCESS-NAME,ChatGPT
 
 
 # https://claude.ai/
 # created by limbopro
 # repo:https://github.com/limbopro/Profiles4limbo/
-DOMAIN-KEYWORD,claude,🤖 AI Platforms
+DOMAIN-KEYWORD,claude
 
 # https://poe.com/
-DOMAIN,poe.com,🤖 AI Platforms
+DOMAIN,poe.com
 
 # https://bard.google.com/
 # created by limbopro
 # repo:https://github.com/limbopro/Profiles4limbo/
-DOMAIN-SUFFIX,google.com,🤖 AI Platforms
-DOMAIN-SUFFIX,apis.google.com,🤖 AI Platforms
-DOMAIN-SUFFIX,bard.google.com,🤖 AI Platforms
-DOMAIN-SUFFIX,in.appcenter.ms,🤖 AI Platforms
-DOMAIN-SUFFIX,ogs.google.com,🤖 AI Platforms
-DOMAIN-SUFFIX,www.google.com,🤖 AI Platforms
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,in.appcenter.ms
+DOMAIN-SUFFIX,ogs.google.com
+DOMAIN-SUFFIX,www.google.com
+PROCESS-NAME,Raycast
+DOMAIN-SUFFIX,bewildcard.com

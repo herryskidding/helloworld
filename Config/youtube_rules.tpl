@@ -1,4 +1,5 @@
 # Other
+# Policy: configure via RULE-SET in main config, e.g. RULE-SET,<url-or-name>,<Policy>
 DOMAIN-SUFFIX,typeset.io
 DOMAIN-SUFFIX,bing.com
 

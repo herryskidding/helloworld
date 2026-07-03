@@ -1,4 +1,5 @@
 # 办公室网络
+# Policy: configure via RULE-SET in main config, e.g. RULE-SET,<url-or-name>,<Policy>
 DOMAIN,firezone.nocode-tech.com
 DOMAIN-SUFFIX,nocode-tech.com
 DOMAIN-SUFFIX,nocode.mobi
@@ -17,3 +18,4 @@ IP-CIDR,10.3.56.0/24
 IP-CIDR,47.99.68.12/32
 IP-CIDR,106.75.213.145/32
 IP-CIDR,106.75.214.133/32
+IP-CIDR,198.18.12.112/22

@@ -1,0 +1,4 @@
+# NAME: Netflix
+# AUTHOR: H
+DOMAIN-KEYWORD,netflix
+DOMAIN-KEYWORD,nflx

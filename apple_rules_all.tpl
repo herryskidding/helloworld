@@ -1873,3 +1873,6 @@ IP-CIDR,198.183.17.0/24, 苹果服务
 IP-CIDR,205.180.175.0/24, 苹果服务
 IP-CIDR,63.92.224.0/19, 苹果服务
 IP-CIDR,65.199.22.0/23, 苹果服务
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,mzstatic.com

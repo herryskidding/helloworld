@@ -1,13 +1,5 @@
-# > HBO NOW & Max
-USER-AGENT,HBO%20NOW*, HBO&TikTok
-HOST-SUFFIX,hbo.com, HBO&TikTok
-HOST-SUFFIX,hbogo.com, HBO&TikTok
-HOST-SUFFIX,hbonow.com, HBO&TikTok
-USER-AGENT,HBOMAX*, HBO&TikTok
-HOST-SUFFIX,hbomax.com, HBO&TikTok
-HOST-SUFFIX,hbomaxcdn.com, HBO&TikTok
-
-# NAME: TikTok
+# TikTok
+# Policy: configure via RULE-SET in main config, e.g. RULE-SET,<url-or-name>,<Policy>
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2024-04-30 02:10:43
@@ -16,30 +8,38 @@ HOST-SUFFIX,hbomaxcdn.com, HBO&TikTok
 # HOST-SUFFIX: 21
 # USER-AGENT: 1
 # TOTAL: 27
-HOST,lf16-effectcdn.byteeffecttos-g.com,TikTok
-HOST,lf16-pkgcdn.pitaya-clientai.com,TikTok
-HOST,p16-tiktokcdn-com.akamaized.net,TikTok
-HOST-SUFFIX,bytedapm.com,TikTok
-HOST-SUFFIX,bytegecko-i18n.com,TikTok
-HOST-SUFFIX,byteoversea.com,TikTok
-HOST-SUFFIX,capcut.com,TikTok
-HOST-SUFFIX,ibytedtos.com,TikTok
-HOST-SUFFIX,ibyteimg.com,TikTok
-HOST-SUFFIX,ipstatp.com,TikTok
-HOST-SUFFIX,isnssdk.com,TikTok
-HOST-SUFFIX,muscdn.com,TikTok
-HOST-SUFFIX,musical.ly,TikTok
-HOST-SUFFIX,sgpstatp.com,TikTok
-HOST-SUFFIX,snssdk.com,TikTok
-HOST-SUFFIX,tik-tokapi.com,TikTok
-HOST-SUFFIX,tiktok.com,TikTok
-HOST-SUFFIX,tiktokcdn-us.com,TikTok
-HOST-SUFFIX,tiktokcdn.com,TikTok
-HOST-SUFFIX,tiktokd.net,TikTok
-HOST-SUFFIX,tiktokd.org,TikTok
-HOST-SUFFIX,tiktokmusic.app,TikTok
-HOST-SUFFIX,tiktokv.com,TikTok
-HOST-SUFFIX,tiktokv.us,TikTok
-HOST-KEYWORD,musical.ly,TikTok
-HOST-KEYWORD,tiktok,TikTok
-USER-AGENT,TikTok*,TikTok
+DOMAIN,lf16-effectcdn.byteeffecttos-g.com
+DOMAIN,lf16-pkgcdn.pitaya-clientai.com
+DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,bytegecko-i18n.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,capcut.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,isnssdk.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,sgpstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokd.net
+DOMAIN-SUFFIX,tiktokd.org
+DOMAIN-SUFFIX,tiktokmusic.app
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-KEYWORD,musical.ly
+DOMAIN-KEYWORD,tiktok
+USER-AGENT,TikTok*
+# HBO NOW & Max
+USER-AGENT,HBO%20NOW*
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbonow.com
+USER-AGENT,HBOMAX*
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
