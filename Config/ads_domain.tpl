@@ -34661,7 +34661,7 @@ gdqu.cn
 gdsfkwghjspep.site
 gdsngr.chainreactioncycles.com
 #.gdt.qq.com
-.gdtimg.com
+#.gdtimg.com
 gdtrbrsyziwmw.website
 gdvghaowyw.com
 gdxxb.com
