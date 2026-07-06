@@ -14,6 +14,7 @@ DOMAIN-KEYWORD,csjplatform
 DOMAIN-SUFFIX,hangchow.org
 DOMAIN,127.0.0.1
 DOMAIN,192.168.2.1
+DOMAIN-SUFFIX,public.gdtimg.com
 
 # Alibaba
 DOMAIN-KEYWORD,alibaba-inc
