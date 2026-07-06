@@ -72367,7 +72367,7 @@ rumspaanvw.in
 rumsroots.com
 rumstat.cdnvideo.ru
 rumt-sg.com
-rumt-zh.com
+#rumt-zh.com
 run-syndicate.com
 runative-syndicate.com
 runative.com
