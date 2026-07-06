@@ -13430,7 +13430,7 @@ beacon.coofis.com
 beacon.dropbox.com
 beacon.errorception.com
 beacon.flow.io
-beacon.gtimg.com
+#beacon.gtimg.com
 beacon.klm.com
 beacon.kmi-us.com
 beacon.peakhour.io
@@ -14344,7 +14344,7 @@ bkztjbynnxdyt.site
 bl-test.curatedplanet.com
 bl.wavecdn.de
 bl230126pb.com
-bla.gtimg.com
+#bla.gtimg.com
 blackandwhite-temporary.com
 blackandwhitememory.com
 blackbelted.com
@@ -18902,7 +18902,7 @@ cms.opendsp.tanx.com
 cms.tanx.com
 cms.ucweb.com
 cmsapi.wifi8.com
-cmshow.gtimg.cn
+#cmshow.gtimg.cn
 cmta.yangkeduo.com
 cmtmwn.ditano.com
 cmtrkg.com
@@ -47718,7 +47718,7 @@ lazycollection.pro
 lazyexplore.com
 lazyfuture.pro
 lb.billing01.email-allstate.com
-lb.gtimg.com
+#lb.gtimg.com
 #lb.l.qq.com
 lb.marketing01.email-allstate.com
 lb.quote01.email-allstate.com
@@ -64803,7 +64803,7 @@ pganwasqoeibh.website
 pgaytfwiku.com
 pgazaz.icu
 pgbxfqadu.com
-pgdt.gtimg.cn
+#pgdt.gtimg.cn
 pgdudllfjgeyy.online
 pgeevebcbzzcm.site
 pgfoxwqwtjtxu.online
@@ -69561,7 +69561,7 @@ r8bz.com
 r8ln4v4nef.com
 r932o.com
 r9x.in
-ra.gtimg.com
+#ra.gtimg.com
 ra0mpyy93.com
 ra1.xyz
 ra10.xyz
@@ -84406,7 +84406,7 @@ swa.energiedirect.nl
 swa.eonline.com
 swa.essent.nl
 swa.gifts.com
-swa.gtimg.com
+#swa.gtimg.com
 swa.localworld.co.uk
 swa.millesima.co.uk
 swa.millesima.com
@@ -87065,8 +87065,8 @@ tianjinblg.com
 .tianmidian.com
 tiannbo.com
 tianshilv.cn
-tianshu-x.gtimg.cn
-tianshu.gtimg.cn
+#tianshu-x.gtimg.cn
+#tianshu.gtimg.cn
 tiantiansoft.com
 tianwenhu.com
 .tiaolianbao.com
@@ -91657,7 +91657,7 @@ tugngs.tui.com
 tugpoise.com
 tuhhfhswiabhz.space
 tuhxuuzcllppe.online
-tui.gtimg.com
+#tui.gtimg.com
 tui.weibo.com
 .tui1999.com
 tui98.cn
@@ -96912,7 +96912,7 @@ wa.gifts.com
 wa.gmx.ch
 wa.gmx.co.uk
 wa.gmx.net
-wa.gtimg.com
+#wa.gtimg.com
 wa.gymboree.com
 wa.kuwo.cn
 wa.localworld.co.uk
@@ -97290,7 +97290,7 @@ waymarkgentiin.com
 wayyaj8t094u.www.kodalia.com
 wazhogebdylsb.space
 wazqifq.com
-wb.gtimg.com
+#wb.gtimg.com
 wb7i614qen.com
 wbaghxconwbdh.space
 wbamedia.com
