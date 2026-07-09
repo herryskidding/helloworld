@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,nocodetech.cn
 DOMAIN,pgm-bp102bs17ul8kx5auo.pg.rds.aliyuncs.com
 DOMAIN,pgm-bp1yip0491bx6c12zo.pg.rds.aliyuncs.com
 DOMAIN-SUFFIX,dev.nocode.com
+DOMAIN-SUFFIX,nocode-tech.com
 DOMAIN-SUFFIX,redis.rds.aliyuncs.com
 # DOMAIN-KEYWORD,nocode
 # DOMAIN-KEYWORD,readhub
