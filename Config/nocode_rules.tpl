@@ -3,6 +3,7 @@
 DOMAIN,firezone.nocode-tech.com
 DOMAIN-SUFFIX,nocode-tech.com
 DOMAIN-SUFFIX,nocode.mobi
+DOMAIN-SUFFIX,nocode.net
 DOMAIN-SUFFIX,nocodetech.cn
 DOMAIN,pgm-bp102bs17ul8kx5auo.pg.rds.aliyuncs.com
 DOMAIN,pgm-bp1yip0491bx6c12zo.pg.rds.aliyuncs.com
