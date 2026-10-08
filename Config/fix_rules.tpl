@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,figma.com
 DOMAIN-SUFFIX,sinyalee.com
 DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,pincong.rocks
 
 # Misc
 DOMAIN-SUFFIX,ntp.org
